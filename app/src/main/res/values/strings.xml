@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice App 2</string>
+    <string name="whatNameTxtField">What is your name please?</string>
+    <string name="nameEditTxt">Name</string>
+    <string name="clickMeBtnTxt">No, I am a Dog Person</string>
+    <string name="cat_image_description">Cat Image</string>
+</resources>
